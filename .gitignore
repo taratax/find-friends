@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+.my_env/
+
+# Ignore data files, model files, etc.
+*.csv
+*.json
+*.pkl
+*.h5
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
