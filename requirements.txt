@@ -4,4 +4,3 @@ pycaret
 plotly
 scikit-learn
 joblib
-python==3.11
