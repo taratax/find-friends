@@ -8,9 +8,6 @@ env/
 .my_env/
 
 # Ignore data files, model files, etc.
-*.csv
-*.json
-*.pkl
 *.h5
 
 # Ignore Jupyter Notebook checkpoints
